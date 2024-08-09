@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\buoi5c\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|e:\\buoi5c\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\buoi5c\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|E:\\buoi5c\\WindowsFormsApp1\\windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|solutionrelative:windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|e:\\buoi5c\\windowsformsapp1\\buoi5.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|solutionrelative:buoi5.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|buoi5.BUS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.bus\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|solutionrelative:buoi5.bus\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.bus\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|solutionrelative:buoi5.bus\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|E:\\buoi5c\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|solutionrelative:buoi5.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.dal\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|solutionrelative:buoi5.dal\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|solutionrelative:buoi5.bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|solutionrelative:buoi5.bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.csproj|E:\\buoi5c\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|solutionrelative:buoi5.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|E:\\buoi5c\\WindowsFormsApp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|E:\\buoi5c\\WindowsFormsApp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6771E073-FFD6-4408-A7F8-9E2B5AF75D21}|WindowsFormsApp1\\buoi5.GUI.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.dal\\entities\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|solutionrelative:buoi5.dal\\entities\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.dal\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|solutionrelative:buoi5.dal\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|E:\\buoi5c\\WindowsFormsApp1\\buoi5.dal\\entities\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A442E47-6634-4585-9E5A-74256E906844}|buoi5.DAL\\buoi5.DAL.csproj|solutionrelative:buoi5.dal\\entities\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B36E71E-993F-41AB-9FDF-05578E7EE08B}|buoi5.BUS\\buoi5.BUS.csproj|e:\\buoi5c\\windowsformsapp1\\buoi5.bus\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "buoi5.DAL\\Class1.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Class1.cs",
+              "RelativeToolTip": "buoi5.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:43:45.189Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:50:40.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacultyService.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\FacultyService.cs",
+              "RelativeDocumentMoniker": "buoi5.BUS\\FacultyService.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\FacultyService.cs",
+              "RelativeToolTip": "buoi5.BUS\\FacultyService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:48:48.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\App.config",
+              "RelativeDocumentMoniker": "buoi5.BUS\\App.config",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\App.config",
+              "RelativeToolTip": "buoi5.BUS\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T02:14:34.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App.config",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T02:10:50.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:34:11.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:49:42.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "buoi5.DAL\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "buoi5.DAL\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:41:29.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\Class1.cs",
+              "RelativeDocumentMoniker": "buoi5.BUS\\Class1.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\Class1.cs",
+              "RelativeToolTip": "buoi5.BUS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:37:57.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAQwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:41:24.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "buoi5.BUS",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\buoi5.BUS.csproj",
+              "RelativeDocumentMoniker": "buoi5.BUS\\buoi5.BUS.csproj",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\buoi5.BUS.csproj",
+              "RelativeToolTip": "buoi5.BUS\\buoi5.BUS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-06T02:47:49.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MajorService.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\MajorService.cs",
+              "RelativeDocumentMoniker": "buoi5.BUS\\MajorService.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\MajorService.cs",
+              "RelativeToolTip": "buoi5.BUS\\MajorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:48:38.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\StudentService.cs",
+              "RelativeDocumentMoniker": "buoi5.BUS\\StudentService.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.BUS\\StudentService.cs",
+              "RelativeToolTip": "buoi5.BUS\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:48:14.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\App.config",
+              "RelativeDocumentMoniker": "buoi5.DAL\\App.config",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\App.config",
+              "RelativeToolTip": "buoi5.DAL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T02:10:58.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:22:19.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:24:59.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Major.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Entities\\Major.cs",
+              "RelativeDocumentMoniker": "buoi5.DAL\\Entities\\Major.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Entities\\Major.cs",
+              "RelativeToolTip": "buoi5.DAL\\Entities\\Major.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:57:14.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "buoi5.DAL\\Entities\\Student.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Entities\\Student.cs",
+              "RelativeToolTip": "buoi5.DAL\\Entities\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:57:15.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Entities\\Faculty.cs",
+              "RelativeDocumentMoniker": "buoi5.DAL\\Entities\\Faculty.cs",
+              "ToolTip": "E:\\buoi5c\\WindowsFormsApp1\\buoi5.DAL\\Entities\\Faculty.cs",
+              "RelativeToolTip": "buoi5.DAL\\Entities\\Faculty.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:57:10.437Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

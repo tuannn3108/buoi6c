@@ -1,0 +1,14 @@
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\buoi5.BUS.dll
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\buoi5.BUS.pdb
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\buoi5.DAL.dll
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\buoi5.DAL.pdb
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\buoi5.DAL.dll.config
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\EntityFramework.xml
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\obj\Debug\buoi5.BUS.csproj.AssemblyReference.cache
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\obj\Debug\buoi5.BUS.csproj.CoreCompileInputs.cache
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\obj\Debug\buoi5.BUS.csproj.Up2Date
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\obj\Debug\buoi5.BUS.dll
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\obj\Debug\buoi5.BUS.pdb
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\buoi5.BUS.dll.config
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\EntityFramework.SqlServer.dll
+E:\buoi5c\WindowsFormsApp1\buoi5.BUS\bin\Debug\EntityFramework.SqlServer.xml
